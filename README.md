@@ -1,5 +1,12 @@
-## Hi there 👋
+# 👋 Hi, I'm Haraj!
 
+I'm a student at Oregon State University studying Computer Science with aspirations to become a Full Stack Software Developer! 
+
+## 💻 Tech Stack:
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,html,css,react,django,express,mongodb,nextjs,nodejs)](https://skillicons.dev)
+
+## 📫 Socials:
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/harajdhesi/) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:harajdhes@gmail.com)
 <!--
 **HarajDhesi/HarajDhesi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
